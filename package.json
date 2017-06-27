@@ -1,0 +1,22 @@
+{
+  "name": "simple_express_server",
+  "version": "1.0.0",
+  "description": "my first express server!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flyrightsister/simple_express_server.git"
+  },
+  "author": "Bonnie Schulkin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/flyrightsister/simple_express_server/issues"
+  },
+  "homepage": "https://github.com/flyrightsister/simple_express_server#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
